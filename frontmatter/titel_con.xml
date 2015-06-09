@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"http://docs.oasis-open.org/dita/v1.2/os/dtd1.2/technicalContent/dtd/concept.dtd">
+<concept id="titel_con" xml:lang="de-de">
+  <title/>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <author type="contributor">ditalog.com</author>
+
+    <source/>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>Andreas Petersell</copyrholder>
+    </copyright>
+
+    <metadata>
+      <prodinfo>
+        <prodname>Miniauto</prodname>
+
+        <vrmlist>
+          <vrm release="2015-02-10" version="2"/>
+        </vrmlist>
+
+        <featnum>ditalog</featnum>
+
+        <series>Zeitzeuge</series>
+      </prodinfo>
+    </metadata>
+  </prolog>
+
+  <conbody>
+    <p id="autor" otherprops="center-big">Andreas Petersell</p>
+
+    <p id="buchtitel" otherprops="center-big">Baukastensystem oder Puzzle?</p>
+
+    <p id="buchuntertitel" otherprops="center-small">Plastiksteckbausteine gestern
+    und heute am Beispiel der PeBe Miniautos</p>
+  </conbody>
+</concept>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd">  -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="chap2_con" xml:lang="de-de">
+  <title>Baukasten Einsatzfahrzeuge</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>petersell.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>petersell.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="21.01.2013"/>
+
+      </critdates>
+    <resourceid id="chap2_con"/>
+  </prolog>
+
+  <conbody>
+    <ul>
+      <li>Serie MdI (Ministerium des Inneren)</li>
+
+      <li>PeBe Miniauto 70</li>
+
+      <li>Hersteller: VEB Plastica Bad Kösen</li>
+
+      <li>Preis: 5,50 Mark (der DDR)</li>
+
+      <li>Inhalt: 3 Fahrzeuge (Krankenwagen, Polizei, Post)</li>
+    </ul>
+
+    <p><fig>
+        <title>Verpackung der Serie MdI</title>
+
+        <image alt="Drehkran vorn" href="chap2-2-320_6b83d758bf_n.jpg"
+               placement="break"/>
+      </fig></p>
+
+    <p>Anhand der 3 PKW bzw. Transporter-Modell läßt sich sehr gut das
+    Aufbauprinzip für PKWs ableiten. Kinder können nun PKWs in jeglicher Farbe
+    bauen.</p>
+
+    <p>Dass nun die Serie "Ministerium des Inneren" hieß, entbehrt nicht einer
+    gewissen Komik. Wenn man weiß, dass diesem Ministerium auch die
+    Staatssicherheit zugeordnet war und sich in manchen Postämtern Türen ohne
+    Aufschrift befanden - kann man verblüfft sein ob dieser "Offenheit".</p>
+
+    <section><title>Links</title><ul>
+        <li id="smes">17 Fotos im Flickr-Album PeBe Miniauto Einsatzfahrzeuge,
+        <xref format="html"
+        href="http://www.flickr.com/photos/petersell/sets/72157632185665228/"
+        scope="external">zum Link</xref></li>
+
+        <li>Verpackung mit Bauanleitung per Sprengzeichnung vom PeBe-Archiv,
+        <xref format="html"
+        href="http://www.pebe-archiv.de/sets/anleitungen/070b.pdf"
+        scope="external">zum Link</xref></li>
+
+        <li>Abkürzung <i>VEB</i> in wikipedia, <xref format="html"
+        href="http://de.wikipedia.org/wiki/Volkseigener_Betrieb"
+        scope="external">zum Link</xref></li>
+
+        <li>Abkürzung <i>EVP</i> in wikipedia, <xref format="html"
+        href="http://de.wikipedia.org/wiki/Einzelhandelsverkaufspreis"
+        scope="external">zum Link</xref></li>
+      </ul></section>
+  </conbody>
+</concept>

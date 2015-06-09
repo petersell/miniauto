@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN"
+"http://docs.oasis-open.org/dita/v1.2/os/dtd1.2/technicalContent/dtd/map.dtd">
+<map id="content-miniauto" scope="local" xml:lang="de-de">
+
+<mapref href="edition/zeitgeist/miniauto/keydef-miniauto.ditamap"
+          processing-role="resource-only"/>
+          
+  <topicref collection-type="sequence" keyref="chap1_con"
+            scope="local" toc="yes" type="concept" xml:lang="de-de">
+    <topicref keyref="page1-1_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="page1-2_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="page1-3_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+  </topicref>
+
+  <topicref chunk="to-content" keyref="chap2_con"
+            otherprops="chunking-yes" scope="local" toc="yes" type="concept"
+            xml:lang="de-de">
+    <topicref keyref="page2-1_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="page2-2_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="page2-3_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="page2-4_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+  </topicref>
+
+  <topicref keyref="chap2_con" collection-type="sequence" otherprops="chunking-no"
+            scope="local" toc="yes" type="concept" xml:lang="de-de">
+    <topicref keyref="page2-1_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="page2-2_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="page2-3_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="page2-4_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+  </topicref>
+
+  <topicref chunk="to-content" keyref="chap3_con"
+            otherprops="chunking-yes" scope="local" toc="yes" type="concept"
+            xml:lang="de-de">
+    <topicref keyref="page3-1_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="page3-2_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="page3-3_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="page3-4_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+  </topicref>
+
+  <topicref keyref="chap3_con" otherprops="chunking-no"
+            scope="local" collection-type="sequence" toc="yes" type="concept" xml:lang="de-de">
+    <topicref keyref="page3-1_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="page3-2_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="page3-3_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="page3-4_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+  </topicref>
+
+  <topicref chunk="to-content" keyref="chap4_con"
+            otherprops="chunking-yes" scope="local" toc="yes" type="concept"
+            xml:lang="de-de">
+    <topicref keyref="page4-1_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="page4-4_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="page4-2_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="page4-5_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="page4-3_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="page4-6_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+  </topicref>
+
+  <topicref keyref="chap4_con" otherprops="chunking-no"
+            scope="local" collection-type="sequence" toc="yes" type="concept" xml:lang="de-de">
+    <topicref keyref="page4-1_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="page4-4_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="page4-2_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="page4-5_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="page4-3_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="page4-6_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+  </topicref>
+
+ </map>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="page1-3_con" xml:lang="de-de">
+  <title>Puzzleteile</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>petersell.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>petersell.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="21.01.2013"/>
+
+   </critdates>
+    <resourceid id="page1-3_con"/>
+  </prolog>
+
+  <conbody>
+    <p>Die Noppen an den Legosteinen lassen uns glauben, dass dies
+    Modulbausteine sind. Austauschbar und ersetzbar über Baukästen hinweg. Dem
+    ist nur in den seltesten Fällen so. Die Noppen bei vielen Legosteinen sind
+    wie die Nasen am Puzzleteilchen. Doch käme keiner auf die Idee, das
+    Puzzleteilchen der Eiffelturmspitze beim Giraffenpuzzle der selben Größe
+    unterzubringen. Die Noppen fungieren als Schnittstelle. Sie adeln jedoch
+    ihren Träger nicht automatisch zu einem Modul.</p>
+
+    <p>Etwas anderes ist am Miniauto interessant: die Plattform mit den
+    Frontleuchten und den beiden Achsaufhängungen. Sie bilden eine Art
+    Systemgrenze, innerhalb derer gebaut werden darf. Schaut man in die
+    Legokiste der letzten drei Weihnachtsgeschenke, dann sehen sie schier
+    unendliche Weite. Die Plastikplattform bildet zusammen mit der
+    menschlichen Erfahrung, wie in Grundzügen ein Auto zusammengesetzt ist,
+    die Plattform!</p>
+
+    <p><fig>
+        <title>Die rote Plattform</title>
+
+        <image href="chap1-3-320-160b2b5066_n.jpg" placement="break"/>
+      </fig></p>
+
+    <p>Der durchsichtige Fensterstein fungiert als Modul. Er ist in vielen
+    Autos einsetzbar und austauschbar. Weitere Module sind die Dachplatten und
+    der Zwischenraum zwischen den Achsen. Alle anderen Steine wandern durch
+    das Wissen des Autoschemas wie von allein an seinen Platz. Man kann die
+    Autos nach Anleitung bauen, oder sich Variationen ohne Anleitung
+    ausdenken.</p>
+
+    <p>Aber warum das Ganze? Lego kann doch auch Spaß machen. Und die
+    Verkaufszahlen sprechen eine deutliche Sprache. Alles richtig! Doch die
+    Eltern sollten sich bewußt sein, dass sie in den meisten Fällen ein
+    3-D-Plastikpuzzle kaufen. Es hat die selben Konsequenzen wie bei einem
+    2-D-Puzzle: geht ein Puzzleteil verloren, verliert es an Bedeutung.
+    Vermischen Sie die Steine, können sie auch das Eiffelturm- und
+    Giraffenpuzzle kräftig vermischen - es wird nicht leichter. Lego und Co
+    sind keine Baukastensysteme, sondern Puzzleteile in Baukästen.</p>
+
+    <p>Warum verschwand nun dieses Miniauto-Baukastensystem vom Markt? Nur
+    allein, weil es qualitativ nicht hochwertig war? Bitte lassen Sie es mich
+    wissen. Auf jeden Fall war die Beschäftigung mit den Miniautos eine schöne
+    Erinnerung an meine Kindheit. Darum finden sie auch Eingang in die
+    Buchreihe <i>Zeitzeuge</i>.</p>
+
+    <section><title>Links</title><ul>
+        <li>Bild in verschiedenen Größen herunterladen, <xref format="html"
+        href="http://www.flickr.com/photos/petersell/8250226038/sizes/m"
+        scope="external">zum Link</xref></li>
+      </ul></section>
+  </conbody>
+</concept>

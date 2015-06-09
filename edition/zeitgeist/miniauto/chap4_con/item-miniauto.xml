@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="chap4_con" xml:lang="de-de">
+  <title>Baukasten Kranfahrzeuge</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>petersell.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>petersell.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="21.01.2013"/>
+
+    </critdates>
+    <resourceid id="chap4_con"/>
+  </prolog>
+
+  <conbody>
+    <ul>
+      <li>Serie Kranfahrzeuge</li>
+
+      <li>PeBe Miniauto 79</li>
+
+      <li>Hersteller: VEB Plastica Bad Kösen</li>
+
+      <li>Preis: 4,50 Mark (der DDR)</li>
+
+      <li>Inhalt: 2 Kranfahrzeuge</li>
+    </ul>
+
+    <p><fig>
+        <title>Verpackung der Serie Kranfahrzeuge</title>
+
+        <image alt="Drehkran vorn" href="chap4-3-320_571b3c282d_n.jpg"
+               placement="break"/>
+      </fig></p>
+
+    <section><title>Links</title><ul>
+        <li>15 Fotos im Flickr-Album PeBe Miniauto Kranfahrzeuge, <xref
+        format="html"
+        href="http://www.flickr.com/photos/petersell/sets/72157632170575420/"
+        scope="external">zum Link</xref></li>
+
+        <li>Verpackung mit Bauanleitung per Sprengzeichnung vom PeBe-Archiv,
+        <xref format="html"
+        href="http://www.pebe-archiv.de/sets/anleitungen/079.pdf"
+        scope="external">zum Link</xref></li>
+      </ul></section>
+  </conbody>
+</concept>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN"
+"http://docs.oasis-open.org/dita/v1.2/os/dtd1.2/technicalContent/dtd/map.dtd">
+<map id="keydef-miniauto" scope="local" title="Container PeBe Miniautos"
+     xml:lang="de-de">
+  <keydef href="item-miniauto.xml" keys="miniauto"/>
+
+  <keydef href="chap1_con/item-miniauto.xml" keys="chap1_con"/>
+
+  <keydef href="chap1_con/page1-1_con/item-miniauto.xml" keys="page1-1_con"/>
+
+  <keydef href="chap1_con/page1-2_con/item-miniauto.xml" keys="page1-2_con"/>
+
+  <keydef href="chap1_con/page1-3_con/item-miniauto.xml" keys="page1-3_con"/>
+
+  <keydef href="chap2_con/item-miniauto.xml" keys="chap2_con"/>
+
+  <keydef href="chap2_con/page2-1_con/item-miniauto.xml" keys="page2-1_con"/>
+
+  <keydef href="chap2_con/page2-2_con/item-miniauto.xml" keys="page2-2_con"/>
+
+  <keydef href="chap2_con/page2-3_con/item-miniauto.xml" keys="page2-3_con"/>
+
+  <keydef href="chap2_con/page2-4_con/item-miniauto.xml" keys="page2-4_con"/>
+
+  <keydef href="chap3_con/item-miniauto.xml" keys="chap3_con"/>
+
+  <keydef href="chap3_con/page3-1_con/item-miniauto.xml" keys="page3-1_con"/>
+
+  <keydef href="chap3_con/page3-2_con/item-miniauto.xml" keys="page3-2_con"/>
+
+  <keydef href="chap3_con/page3-3_con/item-miniauto.xml" keys="page3-3_con"/>
+
+  <keydef href="chap3_con/page3-4_con/item-miniauto.xml" keys="page3-4_con"/>
+
+  <keydef href="chap4_con/item-miniauto.xml" keys="chap4_con"/>
+
+  <keydef href="chap4_con/page4-1_con/item-miniauto.xml" keys="page4-1_con"/>
+
+  <keydef href="chap4_con/page4-2_con/item-miniauto.xml" keys="page4-2_con"/>
+
+  <keydef href="chap4_con/page4-3_con/item-miniauto.xml" keys="page4-3_con"/>
+
+  <keydef href="chap4_con/page4-4_con/item-miniauto.xml" keys="page4-4_con"/>
+
+  <keydef href="chap4_con/page4-5_con/item-miniauto.xml" keys="page4-5_con"/>
+
+  <keydef href="chap4_con/page4-6_con/item-miniauto.xml" keys="page4-6_con"/>
+</map>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="page1-2_con" xml:lang="de-de">
+  <title>Die Spielphasen von Steckbausteinen</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>petersell.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>petersell.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="21.01.2013"/>
+
+    </critdates>
+    <resourceid id="page1-2_con"/>
+  </prolog>
+
+  <conbody>
+    <p>In der Berliner Zeitung vom 21.12.2012 kam Dirk Engelshausen,
+    Eurapa-Chef von Lego zu Wort. Dieser skizzierte die drei Spielphasen, wie
+    sie die Kinder mit den Legosteinen durchlaufen, folgendermaßen [1]:</p>
+
+    <ol>
+      <li><cite>In der <b>Bauphase</b> geht es darum, das Schloss – oder was
+      auch immer – aufzubauen. Dabei erleben Kinder gemeinsam mit den Eltern
+      eine schöne Zeit, die sonst meist knapp bemessen ist. Der Papa hockt
+      sich mit auf den Boden, auch weil er selbst immer noch gern bastelt und
+      baut. Ist das Schloss fertig, darf man stolz sein und die Kinder
+      loben.</cite></li>
+
+      <li><b>Rollenspiele</b> - <cite>Ich bin der König, du bist Aragorn, das
+      Schloss ist groß und ganz schön unheimlich. Rollenspiele, wie Kinder sie
+      immer und überall auf der Welt spielen.</cite></li>
+
+      <li><cite>In der dritten, der <b>Umbauphase</b>, wird der Schlossturm
+      sowieso von hier nach da verrückt, wie es gerade passt. Die Kinder
+      können andere Spielsteine oder ganze Bauteile einbeziehen. Wir haben die
+      Serien absichtlich so konzipiert, dass das geht. Man kann zum Beispiel
+      umstandslos Wände eines Gebäudes herausnehmen und anderswo einbauen. Die
+      Kombinationsmöglichkeiten sind unendlich.</cite></li>
+    </ol>
+
+    <p>Die Lego-Modelle sind tatsächlich so komplex, dass sie ohne das Studium
+    der Anleitung durch Erwachsene nicht aufzubauen sind. Die Bauphase der
+    Miniautos dagegen habe ich als Kind allein durchleben können.</p>
+
+    <p>Die Umbauphase mag wie beschrieben noch funktionieren. Doch leise
+    Zweifel sind angebracht. Was passiert nun nach der Umbauphase? Die
+    sperrigen Verpackungen sind längst entsorgt. Nach einigen Wochen soll im
+    Kinderzimmer wieder Platz geschaffen werden. Die Kunstwerke werden
+    demontiert, und... - na klar, in die Kiste mit den anderen Legosteinen!
+    Den Verbleib der Anleitung will ich hier nicht weiter verfolgen.</p>
+
+    <section><title>Links</title><ul>
+        <li>[1]<i> Jungs funktionieren anders</i>, Interview mit
+        Lego-Europa-Chef Dirk Engelshausen am 21.12.2012, <xref format="html"
+        href="http://www.berliner-zeitung.de/wirtschaft/lego-chef---jungs-funktionieren-anders-,10808230,21168378.html"
+        scope="external">zum Link</xref></li>
+      </ul></section>
+  </conbody>
+</concept>

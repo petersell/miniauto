@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="page3-1_con" xml:lang="de-de">
+  <title>Roter Bus Vorderseite</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>petersell.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>petersell.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="21.01.2013"/>
+
+     </critdates>
+    <resourceid id="page3-1_con"/>
+  </prolog>
+
+  <conbody>
+    <p><fig>
+        <title>Glasfronten mit Fenster-Elementen</title>
+
+        <image href="chap3-1-320_bf0b216d6d_n.jpg" placement="break"/>
+      </fig></p>
+
+    <p>Bei diesem überlangen Bus wird auf die Standard-Plattform verzichtet.
+    Es ist eine lange Platte, an die die Achsen noch montiert werden
+    mussten.</p>
+
+    <section><title>Links</title><ul>
+        <li>Bild in verschiedenen Größen herunterladen, <xref format="html"
+        href="http://www.flickr.com/photos/petersell/8247807366/sizes/m"
+        scope="external">zum Link</xref></li>
+      </ul></section>
+  </conbody>
+</concept>

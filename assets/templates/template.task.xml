@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN"
+"http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd"> -->
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN"
+"../../../../dtd/technicalContent/dtd/task.dtd">
+<task id="tools.git-repository.task" xml:lang="de-de">
+  <title>Zugangsweg in Online-Hilfe darstellen</title>
+
+  <shortdesc>Includes für Handlungsanleitungen strictTask</shortdesc>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <copyright>
+      <copyryear year="2014"/>
+
+      <copyrholder>Andreas Petersell</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="13.02.2014"/>
+
+      <!-- <revised modified="13.02.2014"/> -->
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm>Stichwort</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname>Ditalog</prodname>
+
+        <vrmlist>
+          <vrm release="2014-02-12" version="1.0"/>
+        </vrmlist>
+
+        <featnum/>
+      </prodinfo>
+    </metadata>
+    <resourceid id="tools.git-repository.task"/>
+  </prolog>
+
+  <taskbody>
+    <prereq><p otherprops="bedingung" outputclass="bedingung">Hier steht die
+    Voraussetzung!</p> <p><note>Hier steht der erste Hinweis!</note></p>
+    <p/></prereq>
+
+    <steps>
+      <step id="startcmdbat">
+        <cmd>Doppelklicken Sie auf auf die Datei
+        <filepath>startcmd.bat</filepath> (Windows) innerhalb Ihrers
+        DITA-OT-Ordners, um ein Kommandofenster zur Eingabe von build-Befehlen
+        zu öffnen.</cmd>
+      </step>
+    </steps>
+
+    <postreq><msgph>Links zum Artikel</msgph> <ol>
+        <li>Github.com Hilfe - Ein Repository
+        erstellen <xref format="html"
+        href="https://help.github.com/articles/create-a-repo"
+        scope="external">zum Link</xref></li>
+
+        <li>Pro Git - Anleitung von Scott Chacon <xref format="html" href="http://git-scm.com/book/de"
+        scope="external">zum Link</xref></li>
+      </ol></postreq>
+  </taskbody>
+</task>

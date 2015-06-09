@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="page4-5_con" xml:lang="de-de">
+  <title>Autodrehkran Rückseite</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>petersell.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>petersell.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="21.01.2013"/>
+    </critdates>
+    <resourceid id="page4-5_con"/>
+  </prolog>
+
+  <conbody>
+    <p><fig>
+        <title>Plattform mit Kranaufbau</title>
+
+        <image href="chap4-7-320_9df0e1de15_n.jpg" placement="break"/>
+      </fig></p>
+
+    <p>Der Drehkran ist ohne Sprengzeichnung fast nicht zu schaffen. Möglich
+    nur mit Quasi-Puzzle-Teilen.</p>
+
+    <section><title>Links</title><ul>
+        <li>Bild in verschiedenen Größen herunterladen, <xref format="html"
+        href="http://www.flickr.com/photos/petersell/8244730728/sizes/m"
+        scope="external">zum Link</xref></li>
+      </ul></section>
+  </conbody>
+</concept>

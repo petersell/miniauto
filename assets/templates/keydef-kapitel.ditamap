@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN"
+"http://docs.oasis-open.org/dita/v1.2/os/dtd1.2/technicalContent/dtd/map.dtd">
+<map id="keydef-kapitel" scope="local" title="Container Kapitel"
+     xml:lang="de-de">
+  <!-- Topics Part -->
+
+  <keydef href="buildumgebung/item-page.xml" keys="buildumgebung_topic"
+          scope="local" type="topic" xml:lang="de-de"/>
+
+  <!-- Topics Kapitel 1 -->
+
+  <keydef href="buildumgebung/d4p-buildumgebung_con/item-page.xml"
+          keys="d4p-buildumgebung_con" scope="local" type="concept"
+          xml:lang="de-de"/>
+
+  <keydef href="buildumgebung/d4p-buildumgebung_con/d4p-buildumgebung-2_con/item-page.xml"
+          keys="d4p-buildumgebung-2_con" scope="local" type="concept"
+          xml:lang="de-de"/>
+
+  <keydef keys="petersell-mail-allgemein">
+    <topicmeta>
+      <keywords>
+        <keyword>mail@petersell.de</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>
+</map>

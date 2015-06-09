@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="chap1_con" xml:lang="de-de">
+  <title>Baukastensysteme und Puzzles</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>petersell.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>petersell.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="21.01.2013"/>
+
+      </critdates>
+      <resourceid id="chap1_con"/>
+  </prolog>
+
+  <conbody>
+    <section><title>Meine Erbschaft</title><p>Neulich durfte ich endlich mal
+    was erben. Nein, es war nur ein Umzug. Bevor mein Nachbar mich verließ,
+    hinterließ er mir drei kleine, legoähnliche Steckbaustein-Kästen. Mir
+    wurde warm ums Herz, denn diese Bausätze besaß ich als Kind
+    auch.</p><p><fig>
+        <title>Auch ohne detailierte Anleitung zu schaffen</title>
+
+        <image href="chap1-1-320_50ca097d38_n.jpg" placement="break"/>
+      </fig></p><p>Jetzt konnte ich mich fragen, warum der Nachbar die
+    Bausätze aus DDR-Zeiten noch hatte und ich nicht? Und diese sogar noch
+    vollzählig. Doch das macht mir nicht zu schaffen. Etwas anderes
+    beschäftigt mich viel mehr.</p><p>Von Zeit zu Zeit wandle ich durch die
+    Zimmer unserer Kinder und stoße auf Legosteine heutiger Zeit, die ich
+    partout nicht zuordnen kann. Ich ahne nur, dass sie zu einer Ritterburg
+    oder einem Alien gehören könnten. Selbst wenn ich es wüßte, es sind ja
+    doch schon sämtliche Steckbausteine in einer Kiste gelandet. Fürs
+    Aufräumen ideal, fürs Zusammenstecken laut Anleitung wohl eher
+    katastrophal.</p><p>Wieso gelingt mir das Zusammensetzen von kleinen Autos
+    aus DDR-Zeiten innerhalb weniger Minuten? Und wieso kann ich noch nicht
+    mal Steine der Neuzeit identifizieren geschweige denn zu einem Bauwerk
+    zusammensetzen? </p></section>
+
+    <section><title>Links</title><ul>
+        <li>PeBe in der wikipedia, <xref format="html"
+        href="http://de.wikipedia.org/wiki/Pebe" scope="external">zum
+        Link</xref></li>
+
+        <li id="warum-investieren">Sämtliche Anleitungen und Verpackungen im
+        PeBe-Archiv, <xref format="html"
+        href="http://www.pebe-archiv.de/sets/mini.htm" scope="external">zum
+        Link</xref></li>
+      </ul></section>
+  </conbody>
+</concept>

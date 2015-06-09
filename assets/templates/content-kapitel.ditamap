@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN"
+"http://docs.oasis-open.org/dita/v1.2/os/dtd1.2/technicalContent/dtd/map.dtd">
+<map id="kapitel" scope="local" title="Content Kapitel"
+     xml:lang="de-de">
+  <!-- Topics Part -->
+
+  <mapref href="tutorien/keydef-kapitel.ditamap"
+          processing-role="resource-only"/>
+<topicref keyref="buildumgebung_topic">
+  <topicref collection-type="sequence" keyref="d4p-buildumgebung_con"
+              scope="local">
+      <topicref keyref="d4p-buildumgebung-2_con"/>
+
+      <topicref keyref="d4p-buildumgebung-3_con"/>
+
+      <topicref keyref="d4p-buildumgebung-4_con"/>
+
+      <topicref keyref="d4p-buildumgebung-5_con"/>
+
+      <topicref keyref="d4p-buildumgebung-6_con"/>
+
+      <topicref keyref="d4p-buildumgebung-7_con"/>
+   </topicref>
+
+ <topicref keyref="variablen-ausserhalb-projekt_con"/>
+ </topicref>  
+</map>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="page2-4_con" xml:lang="de-de">
+  <title>Postauto Rückseite</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>petersell.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>petersell.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="21.01.2013"/>
+    </critdates>
+    <resourceid id="page2-4_con"/>
+  </prolog>
+
+  <conbody>
+    <p><fig>
+        <title>Individuelle Rückleuchten</title>
+
+        <image href="chap2-5-320_1008aea687_n.jpg" placement="break"/>
+      </fig></p>
+
+    <p>Beispiel für einen Liefer- bzw. Kastenwagen.</p>
+
+    <section><title>Links</title><ul>
+        <li>Bild in verschiedenen Größen herunterladen, <xref format="html"
+        href="http://www.flickr.com/photos/petersell/8249157371/sizes/m"
+        scope="external">zum Link</xref></li>
+      </ul></section>
+  </conbody>
+</concept>

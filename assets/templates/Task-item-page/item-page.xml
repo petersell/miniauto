@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN"
+"http://docs.oasis-open.org/dita/v1.2/os/dtd1.2/technicalContent/dtd/generalTask.dtd">
+<task id="???_task" xml:lang="de-de">
+  <title>Handlungsanleitung</title>
+  <shortdesc>Anleitung: So machen Sie ...</shortdesc>
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+    <publisher>ditalog.com</publisher>
+    <copyright>
+      <copyryear year="2015"/>
+      <copyrholder>ditalog.com</copyrholder>
+    </copyright>
+    <critdates>
+      <created date="06.05.2015"/>
+    </critdates>
+    <metadata>
+        <keywords>
+        <indexterm>Example index</indexterm>
+        </keywords>
+        <prodinfo>
+        <prodname>Ditalog</prodname>
+       <vrmlist>
+          <vrm release="10.02.2015" version="2"/>
+        </vrmlist> 
+        <brand>ditalog</brand>
+        <component>ditalog</component>
+        <featnum/>
+        <series>Tutor</series>
+      </prodinfo>
+    </metadata>
+    <resourceid id="???_task"/>
+  </prolog>
+
+  <taskbody>
+   <prereq>
+   <p outputclass="bedingung" otherprops="bedingung" >Hier steht die Voraussetzung!</p>
+   <p><note>Hier steht der erste Hinweis!</note></p>
+   <p/></prereq>
+    <steps>
+        <step>
+        <cmd></cmd>
+        </step>
+    </steps>
+  </taskbody>
+  
+  </task>

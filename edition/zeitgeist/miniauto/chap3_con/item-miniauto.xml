@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd">  -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="chap3_con" xml:lang="de-de">
+  <title>Baukasten Omnibusse</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>petersell.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>petersell.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="21.01.2013"/>
+
+     </critdates>
+     <resourceid id="chap3_con"/>
+  </prolog>
+
+  <conbody>
+    <ul>
+      <li>Serie Omnibus</li>
+
+      <li>PeBe Miniauto 74</li>
+
+      <li>Hersteller: VEB Plastica Bad Kösen</li>
+
+      <li>Preis: 4,50 Mark (der DDR)</li>
+
+      <li>Inhalt: 2 Busse</li>
+    </ul>
+
+    <p><fig>
+        <title>Ein Bus von zweien auf Originalverpackung</title>
+
+        <image alt="Polizeiauto hinten"
+               href="chap3-3-320_52d4b75edc_n.jpg" placement="break"/>
+      </fig></p>
+
+    <section><title>Links</title><ul>
+        <li id="smes">14 Fotos im Flickr-Album PeBe Miniauto Omnibus, <xref
+        format="html"
+        href="http://www.flickr.com/photos/petersell/sets/72157632174700395/"
+        scope="external">zum Link</xref></li>
+
+        <li>Verpackung mit Bauanleitung per Sprengzeichnung vom PeBe-Archiv,
+        <xref format="html"
+        href="http://www.pebe-archiv.de/sets/anleitungen/074b.pdf"
+        scope="external">zum Link</xref></li>
+      </ul></section>
+  </conbody>
+</concept>

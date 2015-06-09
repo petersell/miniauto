@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="page1-1_con" xml:lang="de-de">
+  <title>Baukastensystem</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>petersell.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>petersell.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="21.01.2013"/>
+
+      </critdates>
+      <resourceid id="page1-1_con"/>
+  </prolog>
+
+  <conbody>
+    <p>Schauen wir uns ein Mini-Auto aus der Erbmasse des Nachbarn genauer an.
+    Und siehe da: es ist simpel und es besteht fast nur aus standardisierten
+    Bauteilen.</p>
+
+    <p><fig>
+        <title>Plattform mit Grundbausteinen</title>
+
+        <image alt="Polizeiauto" href="chap1-2-320_c2814d453c_n.jpg"
+               placement="break"/>
+      </fig></p>
+
+    <p>Dieses Auto basiert auf einer Plattform und einem Fenstersteinchen.
+    Sechs durchsichtige Steinchen, die das Prinzip eines Kombifahrzeugs
+    treffend fassen. In allen drei Bausätzen kommt die Plattform und die
+    Fenstersteinchen zum Einsatz. Es sind nicht nur drei Baukästen, es ist ein
+    <b>Baukastensystem</b>!</p>
+
+    <p>Die Wikipedia hilft unter dem Stichwort <i>Baukastensystem</i> bzw.
+    <i>Modularität</i> weiter. Dort heißt es:</p>
+
+    <p><cite>Einzelne Komponenten lassen sich unterschiedlich zu einem Ganzen
+    kombinieren, wenn sie wie Spielbausteine ausgeführt sind – das beschreibt
+    das sprachliche Bild, das Gegenteil wäre einem Puzzle vergleichbar, bei
+    dem jede Komponente nur genau einen möglichen Platz hat, und das System
+    nur als ein ganzer Block (monolithisch) funktioniert.</cite></p>
+
+    <p><cite>Ein großer Vorteil ist, dass man alte Module leicht gegen neue
+    Module austauschen oder neue Module zum Ganzen hinzufügen kann. Dafür
+    brauchen Module klare Schnittstellen – möglichst genormt, um Probleme der
+    Kompatibilität (des „Zusammenpassens“) gering zu halten.</cite></p>
+
+    <p><cite>Durch die Modularität von komplexen Systemen lässt sich deren
+    Verständlichkeit für den Menschen erhöhen. Für den Hersteller, den Service
+    wie auch Konsumenten kann ein Baukastenprinzip Vorteile bringen, besonders
+    wenn als Anbieter standardisierter Einzelkomponenten unterschiedliche
+    Unternehmen am Markt miteinander konkurrieren. Mögliche Vorteile
+    sind:</cite><ul>
+        <li><cite>Billige Herstellung durch baugleiche Serien</cite></li>
+
+        <li><cite>Niedrige Entwicklungskosten und schnellere
+        Produktzyklen</cite></li>
+
+        <li><cite>Einfache Montageprozesse und Reparatur durch Austausch der
+        fehlerhaften Komponente</cite></li>
+
+        <li><cite>Variationen durch Kombination mehrerer Komponenten
+        verschiedener Gruppen aus einer Produktklasse</cite></li>
+      </ul></p>
+
+    <p>Man sollte meinen, die positiven Seiten eines Baukastensystems
+    überwiegen? Oder fragt sich nur für wen?</p>
+
+    <section><title>Links</title><ul>
+        <li>Bild in verschiedenen Größen herunterladen, <xref format="html"
+        href="http://www.flickr.com/photos/petersell/8250224886/sizes/m"
+        scope="external">zum Link</xref></li>
+      </ul></section>
+  </conbody>
+</concept>

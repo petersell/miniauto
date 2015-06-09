@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="template.concept" xml:lang="de-de">
+  <title>Template Titel</title>
+
+  <shortdesc>So nutzen Sie den Namen des Topics aus den Metadaten, um einen
+  E-Mail-Link für Feedback unterhalb des Seitentitels anzeigen zu
+  lassen.</shortdesc>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>petersell.com</publisher>
+
+    <critdates>
+      <created date="16.03.2014"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm>Beispielstichwort</indexterm>
+      </keywords>
+
+      <prodinfo>
+        <prodname>Ditalog</prodname>
+
+        <vrmlist>
+          <vrm release="25.02.2013" version="1"/>
+        </vrmlist>
+
+        <brand>5. Petersilienbuch</brand>
+
+        <component></component>
+
+        <featnum/>
+
+        <series>Tutor</series>
+      </prodinfo>
+    </metadata>
+
+    <resourceid id="template.concept"/>
+  </prolog>
+
+  <conbody>
+   <section><title>Plugin</title><p>Da ich die Metadaten nur für Onlinehilfen
+    und eBooks benöte, die des Öfteren aktualisiert werden, habe ich das
+    Template in ein Plugin ausgelagert.</p></section>
+
+    <section><title>Links</title><ul>
+        <li>Skript für Metadaten im Text für PDF-Dateien im XMetal-Forum,
+        <xref format="html"
+        href="http://forums.xmetal.com/index.php?topic=1041.0"
+        scope="external">zum Link</xref></li>
+      </ul></section>
+  </conbody>
+</concept>

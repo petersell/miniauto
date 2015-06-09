@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pubmap PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:dtd:pubmap" "pubmap.dtd">
+<pubmap xml:lang="de-de">
+  <pubtitle> <mainpubtitle>Baukastensystem oder Puzzleteile?</mainpubtitle></pubtitle>
+  <pubmeta>
+  <author>Andreas Petersell</author> <publisherinformation><organization>seminarwork.com</organization></publisherinformation>
+  <keywords>
+  <keyword>Spielzeug</keyword>
+  <keyword>Steckbausteine</keyword>
+  <keyword>Plattformen</keyword>
+  <keyword>Baukastensystem</keyword>
+  </keywords> <prodinfo>
+    <prodname>miniauto</prodname>
+    <vrmlist>
+      <vrm
+        version="1.0"/>
+    </vrmlist>
+    </prodinfo> <pubrights> <copyrfirst> <year>2011</year> </copyrfirst> <copyrlast>
+    <year>2015</year> </copyrlast>
+    <pubowner><organization>seminarwork.com</organization></pubowner> </pubrights>
+    </pubmeta>
+    <publication>
+  <covers>
+      <epub-cover-graphic
+        href="frontmatter/covers/images/cover.gif"
+        format="gif">
+        <topicmeta>
+          <navtitle>Cover Graphic</navtitle>
+        </topicmeta>
+      </epub-cover-graphic>
+      <front-cover
+        href="frontmatter/covers/cover.xml" product="online" locktitle="yes" scope="local" toc="no" type="concept"
+            xml:lang="de-de"/>
+    </covers>
+  
+  <!-- Frontmatter -->
+  <frontmatter>
+      <topicref href="frontmatter/titel_con.xml" toc="yes" locktitle="yes"  navtitle="Titel" type="concept" xml:lang="de-de" product="online">
+      <topicmeta><author>Andreas Petersell</author><publisher>seminarwork.com</publisher>
+            <copyright>
+				<copyryear year="2013"></copyryear>
+				<copyrholder>Andreas Petersell</copyrholder>
+			</copyright>
+		</topicmeta></topicref>
+      <topicref href="frontmatter/impressum_con.xml" locktitle="yes"
+            navtitle="Impressum" scope="local" toc="no" type="concept" product="online"/>
+      <!-- Titelei print -->      
+      <topicref href="frontmatter/titel_con.xml" toc="no" type="concept" xml:lang="de-de" product="print">
+      <topicref href="frontmatter/impressum_con.xml" locktitle="yes"
+            navtitle="Impressum" scope="local" toc="no" type="concept" product="print"/>
+      </topicref>
+   </frontmatter>       
+     <pubbody class="+ map/topicref pubmap-d/pubbody ">
+     <topicref href="content-miniauto.ditamap" format="ditamap"></topicref>
+    </pubbody>
+   </publication>
+</pubmap>
