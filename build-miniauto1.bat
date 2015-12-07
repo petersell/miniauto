@@ -7,4 +7,4 @@ echo off
 @rem Example 2: build-miniauto dita2epub
 @rem The variable pubname should have the value of the name of the ditamap without extension
 
-ant -f C:/Users/A.Petersell/Dropbox/DITA-SRCME/seminarwork-miniauto/build-miniauto.xml -Dpubname=miniauto -logger org.dita.dost.log.DITAOTBuildLogger %1
+ant -f C:/Users/A.Petersell/Dropbox/DITA-SRCME/seminarwork-miniauto/build-miniauto1.xml -logger org.dita.dost.log.DITAOTBuildLogger %1

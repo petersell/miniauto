@@ -17,8 +17,9 @@
 	<property name="args.draft" value="no"/>
 	<property name="generate.copy.outer" value="2"/>
 	<property name="onlytopic.in.map" value="true"/>
+	<property name="dita.temp.dir" value="C:${file.separator}temp"/>
 	<!-- make the temp directory clean -->
-	<property name="clean.temp" value="no"/>	
+	<property name="clean.temp" value="yes"/>	
 		<echo>Processing of ditamap ${pubname} is started.</echo>
 	<echo/>
 	
@@ -36,6 +37,7 @@
 
 	<target name="dita2pdf" depends="integrate">
 		<ant antfile="${dita-ot-dir}${file.separator}build.xml" target="init">
+		    <property name="args.input.dir" value="${projdir}"/>
 			<property name="args.input" value="${projdir}${file.separator}${mapfile}"/>
 			<property name="output.dir" value="${out-dir}${file.separator}${pubname}${file.separator}pdf"/>
 			<property name="transtype" value="pdf2"/>
@@ -54,7 +56,7 @@
 			<property name="args.input" value="${projdir}${file.separator}${mapfile}"/>
 			<property name="output.dir" value="${out-dir}${file.separator}${pubname}${file.separator}epub"/>
 			<property name="transtype" value="epub"/>
-			<property name="args.filter" value="${projdir}${file.separator}filters${file.separator}petersell_epub.ditaval" />
+			<property name="args.filter" value="${projdir}${file.separator}filters${file.separator}petersell_online.ditaval" />
 			<property name="epub.exclude.auto.rellinks" value="true" />
 			<property name="epub.pubid.uri.stub" value="5.ditalog.com"/>
 			<!--  Change css file -->
@@ -98,7 +100,7 @@
 					<property name="args.input" value="${projdir}${file.separator}${mapfile}"/>
 					<property name="output.dir" value="${out-dir}${file.separator}${pubname}${file.separator}kirby"/>
 					<property name="transtype" value="com.ditalog.kirby.txt"/>
-					<property name="args.filter" value="${projdir}${file.separator}filters${file.separator}petersell_kirby.ditaval"/>
+					<property name="args.filter" value="${projdir}${file.separator}filters${file.separator}petersell_online.ditaval"/>
 					<property name="outer.control" value="quiet"/>
 				</ant>
 	</target>
